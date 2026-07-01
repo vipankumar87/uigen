@@ -1,0 +1,32 @@
+[     646ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[    2045ms] [LOG] [Fast Refresh] done in NaNms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[   24546ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[   26015ms] [LOG] [Fast Refresh] done in 1570ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[   30293ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   32207ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   33706ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[   33799ms] [LOG] [Fast Refresh] done in 193ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[   42855ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[   42964ms] [LOG] [Fast Refresh] done in 209ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[   59676ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[   59853ms] [LOG] [Fast Refresh] done in 270ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[   64211ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[   64270ms] [LOG] [Fast Refresh] done in 159ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  128128ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  128314ms] [LOG] [Fast Refresh] done in 285ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  132266ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  132456ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  134630ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  134656ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  136008ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  136081ms] [LOG] [Fast Refresh] done in 173ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  147643ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  147820ms] [LOG] [Fast Refresh] done in 277ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  153650ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  153690ms] [LOG] [Fast Refresh] done in 140ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  154859ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  154884ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  163832ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  163931ms] [LOG] [Fast Refresh] done in 199ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
+[  175369ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:15027
+[  175472ms] [LOG] [Fast Refresh] done in 202ms @ http://localhost:3006/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14891
